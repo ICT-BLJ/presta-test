@@ -11,8 +11,8 @@ This repository provides a ready-to-use Docker setup for PrestaShop with MySQL. 
 
 ### 1. Clone the Repository
 ```sh
-git clone <your-repository-url>
-cd <your-repository-folder>
+git clone git@github.com:ICT-BLJ/presta-test.git
+cd presta-test
 ```
 
 ### 2. Start the Docker Containers
